@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=IngCollage
+comment1.params=
+comment1.target=IngCollage()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ register1()
+comment4.params=
+comment4.target=void\ register2()
+comment5.params=
+comment5.target=void\ addAcademicCourse()
+comment6.params=
+comment6.target=void\ addNonAcademicCourse()
+comment7.params=
+comment7.target=void\ remove()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
